@@ -1,0 +1,5 @@
+# Ignorar executáveis do Windows
+*.exe
+
+# Ignorar configurações do Visual Studio Code
+.vscode/
