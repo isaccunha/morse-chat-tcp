@@ -98,7 +98,7 @@ Servidor:
 1. Inicie o servidor:
 
     ```bash
-    ./server_win
+    ./server_linux
     ```
 
 2. Aguarde a conexão de um cliente.
@@ -110,7 +110,7 @@ Cliente:
 2. Inicie o cliente:
 
     ```bash
-    ./client_win
+    ./client_linux
     ```
 
 ---
